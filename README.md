@@ -13,5 +13,4 @@ the implementation of the packages are
     -> smtplib
 
     NOTE: This project is being meant for educational process not for any illegal actions 
-
-the entire project is being developed in the kali linux platform but the project can run in any other platforms 
+    the entire project is being developed in the kali linux platform but the project can run in any other platforms 

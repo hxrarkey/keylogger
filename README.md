@@ -1,16 +1,20 @@
 
-Keyloggers are software programs or hardware devices that are used to monitor and record keystrokes on a computer. They can be used for various purposes, such as:
+# Educational Purpose Disclaimer
 
-    -->Monitoring: Employers may use keyloggers to monitor employees' activities on company computers.
-    -->Parental Control: Parents may use keyloggers to monitor their children's online activities and ensure they are safe.
-    -->Cybersecurity: Keyloggers can be used as a cybersecurity measure to detect unauthorized access or malicious activity on a computer.
-    -->Criminal Activity: Unfortunately, keyloggers can also be used for malicious purposes, such as stealing passwords, credit card numbers, or other sensitive information
+This project includes a keylogger implementation **solely for educational and research purposes**. The objective is to demonstrate **how keyloggers work**, how they capture keystrokes, and how they can be detected using machine learning techniques.  
 
+### Understanding the Process  
 
-the implementation of the packages are 
-    -> pynput
-    -> threading
-    -> smtplib
+1. **Keystroke Logging:** Capturing and recording key presses.  
+2. **Data Storage & Transmission:** How malicious programs store and send captured data.  
+3. **Detection Mechanisms:** Identifying patterns in keystroke behavior to flag potential threats.  
 
-    NOTE: This project is being meant for educational process not for any illegal actions 
-    the entire project is being developed in the kali linux platform but the project can run in any other platforms 
+### Responsible Usage  
+
+🚨 **Warning:** This project should NOT be used for any unethical or malicious activities. The goal is to spread awareness about cybersecurity threats and help in the development of stronger detection mechanisms. Misuse of this knowledge for unauthorized data collection is strictly prohibited.  
+
+By using this code, you agree to utilize it **only for ethical hacking, research, and security purposes.** Always ensure compliance with legal and ethical guidelines.  
+
+---
+
+**Stay ethical, stay secure! 🔒**
